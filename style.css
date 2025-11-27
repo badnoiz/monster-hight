@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(12, 10, 16);
+}
+.ss{
+    color: #0d0012; text-decoration: none;padding: 7px;font-size: 15px; margin-left: 100px; border: 2px solid violet; background-color: #d3cdd8;
+}
+.head{
+    color: #0d0012; text-decoration: none;padding: 7px;font-size: 15px;  border: 2px solid violet; background-color: #d3cdd8;
+}
+.head1{
+  text-align: center; margin-top: 30px;
+}
+h1{
+    text-align: center; font-size: 27px; color: aliceblue;
+}
+img{
+    width: 575px; height: 300px; 
+}
+.img{
+    text-align: center;
+}
+.kvartal{
+    background-color: rgb(174, 218, 203); text-align: center; width: 185px; height: 2px;
+}
+.vs{
+    background-color: rgb(104, 141, 141); text-align: center; width: 185px; height: 2px;
+}
+.fon{
+    background-color: white; text-align: center; width: 185px; height: 2px;
+}
+.tb1{
+    border: 3px solid black; 
+}
+.uch{
+    background-color: white; border-collapse: collapse; 
+}
+.kolonki{
+    border: 2px solid black;
+}
+.prim{
+    width: 250px; height: 250px; border-radius: 200px;
+}
+.prinfo{
+    color: aliceblue; width: 350px; height: 10px;
+}
+.ucs{
+    border: 1px solid #3b3b3b; width: 300px;
+}
